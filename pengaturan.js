@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "OTDOOR PHOTO",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyA9b5O_ZLVq03bA_fL0eo3n8ARJSxe6r7E",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
